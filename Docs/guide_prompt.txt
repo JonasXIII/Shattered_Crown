@@ -1,0 +1,16 @@
+I'm developing "Chronicles of the Shattered Crown", a medieval turn-based RPG. I'm asking you to implement the [FILE_NAME] component described below. 
+
+Please follow these requirements:
+1. Reference the style guide and interface specifications provided below
+2. If you need to reference another module not shown here, use the exact class and function names from the specifications
+3. If you're unsure about a specific implementation detail, provide options and ask me to choose
+4. Add detailed comments explaining complex logic
+5. Include proper type hints for all functions
+
+[PASTE STYLE GUIDE]
+
+[PASTE INTERFACE SPECIFICATIONS]
+
+[PASTE FILE DESCRIPTION]
+
+Before completing your implementation, list any assumptions you've made and any questions about interfacing with other components.
